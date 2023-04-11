@@ -1,0 +1,14 @@
+#login{
+    min-height:300px;
+    width:35%;
+    margin:0px auto;
+    transform: translateY(100px);
+    padding-left:15px;
+    padding-right:15px;
+    border-radius:10px;
+    box-shadow:2px 2px 10px black;
+}
+center{
+    margin-top:20px;
+    margin-bottom:20px;
+}

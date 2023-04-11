@@ -1,0 +1,10 @@
+#top{
+    height:70px;
+    width:100%;
+    text-align:center;
+    background:linear-gradient(to left,rgb(255, 0, 140),blue);
+    font-size:40px;
+    text-shadow:2px 2px 10px white;
+    color:white;
+    font-family:algerian;
+}

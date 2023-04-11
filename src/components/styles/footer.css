@@ -1,0 +1,9 @@
+#bottom{
+    height:30px;
+    width:100%;
+    text-align:center;
+    background:linear-gradient(to left,grey,silver);
+    font-size:20px;
+    text-shadow:2px 2px 10px white;
+    font-family:algerian;
+}
